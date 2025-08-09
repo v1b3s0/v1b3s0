@@ -19,5 +19,4 @@ Software Engineering student
 
 ---
 
-> 夜に沈む — Ghost City Tokyo
-> Ask me for music reccomendations, i'll hook you up.
+> 夜に沈む — Ghost City Tokyo - Ask me for music reccomendations, i'll hook you up.
