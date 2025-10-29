@@ -1,7 +1,6 @@
 # Hey, I’m v1b3s0
 
-Software Engineering student
-🛠 If it glitches, crashes, or refuses to work, I’ll figure it out — not just to fix it, but to understand why it happened in the first place.  
+Software Engineering Student
 
 ---
 
